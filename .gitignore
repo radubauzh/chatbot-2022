@@ -162,7 +162,7 @@ cython_debug/
 #.idea/
 Chatbot_Notebook.ipynb
 images.json
-*.ipynb
+
 *.iml
 *.xml
 *.zip
