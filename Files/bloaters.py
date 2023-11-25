@@ -59,9 +59,10 @@ PREDICATES = {
  'executive producer': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P1431'),
  'production company': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P272'),
  'languages spoken, written or signed': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P1412'),
+ 'characters': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P674'),
  }
 
-CLASSIFIED_PREDICATES = {"person":["actor", "cast member", "director", "screenwriter"],
+CLASSIFIED_PREDICATES = {"person":["actor", "cast member", "director", "screenwriter", "characters"],
                           "location":["country", 'country of origin', 'filming location', 'place of birth', 'place of death',  'place of publication'],
                           "time": ['publication date'],
                           "description":[],
@@ -69,16 +70,6 @@ CLASSIFIED_PREDICATES = {"person":["actor", "cast member", "director", "screenwr
                           "rating":[],
                           "crowdsourcing":['languages spoken, written or signed', 'production company', 'executive producer', 'place of burial', 'allegiance', 'art director', 'armament', 'original language of film or TV show', 'film crew member', 'JMK film rating', 'production designer', 'main subject', 'occupation', 'director of photography', 'distributed by', 'box office', 'publication date',"actor", "voice actor", "cast member", "director", "screenwriter","country", 'country of origin', 'filming location', 'place of birth', 'place of death',  'place of publication']
                           }
-
-CLASSIFIED_PREDICATES = {"person":["actor", "cast member", "director", "screenwriter"],
-                          "location":["country", 'country of origin', 'filming location', 'place of birth', 'place of death',  'place of publication'],
-                          "time": ['publication date'],
-                          "description":[],
-                          "recommendations":[],
-                          "rating":[],
-                          "crowdsourcing":['languages spoken, written or signed', 'production company', 'executive producer', 'place of burial', 'allegiance', 'art director', 'armament', 'original language of film or TV show', 'film crew member', 'JMK film rating', 'production designer', 'main subject', 'occupation', 'director of photography', 'distributed by', 'box office', 'publication date',"actor", "voice actor", "cast member", "director", "screenwriter","country", 'country of origin', 'filming location', 'place of birth', 'place of death',  'place of publication']
-                          }
-
 
 SPARQL_TEMPLATE_ENTITY = '''
 PREFIX ddis: <http://ddis.ch/atai/> 
