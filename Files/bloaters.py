@@ -47,7 +47,6 @@ PREDICATES = {
  'distributed by': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P750'),
  'director of photography': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P344'),
  'occupation': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P106'),
- 'main subject': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P921'),
  'production designer': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P2554'),
  'JMK film rating': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P3650'),
  'film crew member': rdflib.term.URIRef('http://www.wikidata.org/prop/direct/P3092'),

@@ -1,0 +1,111 @@
+- User sear-espressivo-caramel_bot successfully logged in with session 'ppUoFlBj6xzUs71uzHccZdNPeDrqG7Uf'!
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new message #1: 'Can you recommend me 3 movies similar to Forest Gump and The Lord of the Rings: The Fellowship of the Ring.' - 10:22:54, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new response to #1: 'Unfortunately, I can't answer that, maybe you'll find something here: www.google.com' - 10:22:57, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new message #1: 'Can you recommend me 3 movies like Nightmare on Elm Street, Friday the 13th, and Halloween. ' - 10:23:17, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new response to #1: 'My recommendations are: What's the Matter with Helen?, Wes Craven's New Nightmare, Halloween II, Friday the 13th Part 3' - 10:23:21, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new message #3: 'Given that I like The Lion King, Pocahontas, and The Beauty and the Beast, can you recommend some movies? ' - 10:23:21, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new response to #3: 'My recommendations are: The Hunchback of Notre Dame, Tarzan, Treasure Planet, Aladdin' - 10:23:25, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new message #1: 'I liked the movie Kung Fu Panda, can you recommend 3 similar movies? ' - 10:23:28, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new response to #1: 'These are my recommendations: Shrek Forever After, Madagascar 3: Europe's Most Wanted, How to Train Your Dragon, Over the Hedge' - 10:23:31, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new message #5: 'Recommend movies like Nightmare on Elm Street, Friday the 13th, and Halloween. ' - 10:23:44, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new response to #5: 'These are my recommendations: What's the Matter with Helen?, Wes Craven's New Nightmare, Halloween II, Friday the 13th Part 3' - 10:23:48, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new message #3: 'I am interested in romantic dramas like 'La La Land', 'Blue Jasmine', and 'Before Sunset'. Can you recommend some other love story movies?' - 10:24:31, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new response to #3: 'My recommendations would include: Before Sunrise, Paterson, Inside Llewyn Davis, Before Midnight' - 10:24:34, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new message #3: 'Give me an image of Halle Berry.' - 10:24:38, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new response to #3: 'Here is an image of Halle Berry image:0353/rm3257480192' - 10:24:41, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new message #5: 'I like 'The Godfather', 'The Shawshank Redemption', and 'Goodfellas'. Can you recommend some similar classic crime or gangster movies?' - 10:24:52, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new response to #5: 'These are my recommendations: The Godfather Part II, The Godfather Saga, The Godfather trilogy, The Godfather Part III' - 10:24:56, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new message #7: 'What are some movies with a plot similar to Titanic?' - 10:25:21, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new response to #7: '1997 American romantic disaster film directed by James Cameron' - 10:25:23, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new message #7: 'I'm fascinated by thought-provoking sci-fi movies like 'The Matrix', 'Inception', and 'Source Code'. What other movies would you recommend for a similar mind-bending experience?' - 10:25:33, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new response to #7: 'Good choices! You could watch the following: Interstellar, The Matrix Revolutions, The Matrix trilogy, The Dark Knight' - 10:25:37, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new message #9: 'As a horror movie enthusiast, I really enjoyed 'The Shining', 'Hereditary', and 'The Host'. Can you recommend some other spine-chilling horror movies?' - 10:25:58, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new response to #9: 'My recommendations would include: A Clockwork Orange, Room 237, Mother, Doctor Sleep' - 10:26:02, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new message #5: 'Can you recommend a movie that I should watch tonight?' - 10:26:08, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new response to #5: 'Unfortunately, I can't answer that, maybe you'll find something here: www.google.com' - 10:26:10, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new message #9: 'Can you recommend films that have a similar vibe to The Lord of the Rings?' - 10:26:21, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new response to #9: 'These are my recommendations: Watership Down, Wizards, The Last Unicorn, Mickey, Donald, Goofy: The Three Musketeers' - 10:26:24, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new message #11: 'I recently watched movies about technology and entrepreneurship like 'The Social Network', 'Steve Jobs', and 'The Pirate Bay'. What other similar themed movies are worth watching?' - 10:27:09, 29-11-2023
+	- Chatroom c2b3c574-85d5-4d10-8efb-bc8f26c612e2 - new response to #11: 'These are my recommendations: The Pirate, Easter Parade, Green Dolphin Street, Boom Town' - 10:27:14, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new message #7: 'Who is the director of Forrest Gump?' - 10:27:17, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new response to #7: 'In my opinion, it is Robert Zemeckis' - 10:27:19, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new message #11: 'Can you recommend me 3 movies similar to Forest Gump and The Lord of the Rings: The Fellowship of the Ring' - 10:27:40, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new response to #11: 'Unfortunately, I can't answer that, maybe you'll find something here: www.google.com' - 10:27:43, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new message #9: 'What movie should I watch tomorrow?' - 10:27:56, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new response to #9: 'Unfortunately, I can't answer that, maybe you'll find something here: www.google.com' - 10:27:56, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new message #13: 'If I liked "Friday the 13th Part 3" movie, which other horror movies could I enjoy?' - 10:28:53, 29-11-2023
+	- Chatroom 585329a4-9de2-43f4-8c55-77b9f4e5d6c8 - new response to #13: 'Good choices! You could watch the following: Zift, Friday the 13th, Friday the 13th Part VI: Jason Lives, Friday the 13th: A New Beginning' - 10:28:56, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new message #11: 'Given that I like Leonardo DiCarpio, recommend some movies.' - 10:29:06, 29-11-2023
+	- Chatroom ae7dbf61-a5b7-431e-941e-343782371516 - new response to #11: 'These are my recommendations: Bar Refaeli, Gisele Bündchen, Erin Heatherton' - 10:29:10, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new message #1: 'Can you recommend me some movies with Charlie Chaplin given that I liked The Great Dictator? ' - 10:36:23, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new response to #1: 'My recommendations would include: Modern Times, Mr. Smith Goes to Washington, Casablanca, Mr. Deeds Goes to Town' - 10:36:28, 29-11-2023
+	- Chatroom 2ea19d56-ff55-439f-af98-5dd1814caa21 - new message #1: 'given that I like Ryan Gosling? ' - 10:36:31, 29-11-2023
+	- Chatroom 2ea19d56-ff55-439f-af98-5dd1814caa21 - new response to #1: 'Sorry I haven't found the rating of Ryan Gosling, maybe you'll find something here: https://www.google.com/search?q=rating+of+Ryan+Gosling' - 10:36:34, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #1: 'Can you recommend some drama movies given that I like Ryan Gosling?' - 10:36:34, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #1: 'My recommendations would include: Shea Whigham, Rachel McAdams, Eva Mendes' - 10:36:37, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new message #3: 'Given that I like The Lion King, Pocahontas, and The Beauty and the Beast, can you recommend some movies? 
+
+' - 10:36:57, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new response to #3: 'Good choices! You could watch the following: The Hunchback of Notre Dame, Tarzan, Treasure Planet, Aladdin' - 10:37:01, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #3: 'Can you recommend some movies given that I like Titanic?' - 10:37:21, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #3: 'Good choices! You could watch the following: Avatar, Terminator 2: Judgment Day, Pirates of the Caribbean: The Curse of the Black Pearl, Gladiator' - 10:37:23, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new message #5: 'Recommend movies like Nightmare on Elm Street, Friday the 13th, and Halloween. 
+
+' - 10:37:27, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new response to #5: 'These are my recommendations: What's the Matter with Helen?, Wes Craven's New Nightmare, Halloween II, Friday the 13th Part 3' - 10:37:31, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #5: 'What does Halle Berry look like?' - 10:37:57, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #5: 'Here is an image of Halle Berry image:0353/rm3257480192' - 10:37:59, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new message #7: 'Recommend movies like Nightmare on Elm Street
+
+' - 10:38:14, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new response to #7: 'These are my recommendations: Wes Craven's New Nightmare, Never Sleep Again: The Elm Street Legacy, Freddy's Dead: The Final Nightmare, Scream' - 10:38:17, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #7: 'Show me a picture of Titanic' - 10:38:24, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #7: 'Here is an image of Titanic image:0596/rm2647458304' - 10:38:26, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new message #9: 'Who is the director of Star Wars: Episode VI - Return of the Jedi? 
+
+' - 10:38:30, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new response to #9: 'I think it is Richard Marquand' - 10:38:33, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #9: 'If I like Halloween, can you recommend some movies?' - 10:38:55, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #9: 'My recommendations would include: Halloween, Halloween II, Halloween III: Season of the Witch, Official Halloween Parody' - 10:38:58, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new message #11: 'Who is the screenwriter of The Masked Gang: Cyprus? 
+
+' - 10:38:58, 29-11-2023
+	- Chatroom d3d6d4e8-cc6e-480f-a778-13bd6608511f - new response to #11: 'My embeddings suggest that it probably should be Cengiz Küçükayvaz' - 10:39:01, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #11: 'Recommend abc 12131231' - 10:39:16, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #11: 'My recommendations would include: Mac, Miracle at St. Anna, He Got Game, Fallen' - 10:39:18, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #13: 'If I like Iron Man and Iron Man 2, recommend some movies' - 10:40:01, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #13: 'My recommendations are: A Man and a Woman, A Man and a Woman: 20 Years Later, Men, Women: A User's Manual, Breathless' - 10:40:04, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #15: 'If I like Avatar, recommend some movies' - 10:40:44, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #15: 'Oh you should watch the following: Avatar 2, Avatar 3, Titanic, Terminator 3: Rise of the Machines' - 10:40:46, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #17: 'Given that I like Avatar, recommend me some movies' - 10:41:25, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #17: 'Good choices! You could watch the following: Avatar 2, Avatar 3, Titanic, Terminator 3: Rise of the Machines' - 10:41:28, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #19: 'Who is the director of Titanic?' - 10:41:45, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #19: 'I think it is James Cameron' - 10:41:47, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new message #21: 'What is the imdb movie with the highest user rating?' - 10:42:42, 29-11-2023
+	- Chatroom 4092d31d-3524-4274-a3f1-eea240ec7ed3 - new response to #21: 'The rating of imdb movie is R - Restricted' - 10:42:45, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new message #1: 'I really like Jared Leto, what should I watch?' - 10:49:17, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new response to #1: 'My recommendations would include: Shannon Leto, Matthew McConaughey, Charlize Theron' - 10:49:20, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new message #1: 'What should I watch after watching Snakes on a Train? ' - 10:49:40, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new response to #1: 'Oh you should watch the following: Dead Men Walking, War of the Worlds 2: The Next Wave, Sunday School Musical, Battle of Los Angeles' - 10:49:43, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new message #3: 'I really like Ben Affleck, what should I watch?' - 10:49:55, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new response to #3: 'My recommendations are: Matt Damon, Carla Gugino, Casey Affleck' - 10:49:59, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new message #3: 'Given that I like The Lion King, Pocahontas, and The Beauty and the Beast, can you recommend some movies? ' - 10:50:24, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new response to #3: 'Oh you should watch the following: The Hunchback of Notre Dame, Tarzan, Treasure Planet, Aladdin' - 10:50:28, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new message #5: 'I really like The Godfather, what should I watch?' - 10:50:53, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new response to #5: 'Good choices! You could watch the following: The Godfather Part II, The Godfather Saga, The Godfather trilogy, The Godfather Part III' - 10:50:55, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new message #5: 'Given that I like The Lion King, Pocahontas, and Scream, can you recommend some movies? ' - 10:50:55, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new response to #5: 'These are my recommendations: Aladdin, The Hunchback of Notre Dame, Tarzan, Scream 3' - 10:50:59, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new message #7: 'Recommend movies similar to Hamlet and Othello. 
+
+' - 10:51:09, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new response to #7: 'My recommendations are: Henry V, Richard III, Brief Encounter, Becket' - 10:51:11, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new message #7: 'What should I watch after watching Harry Potter?' - 10:51:28, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new response to #7: 'Good choices! You could watch the following: Harper, Jeremiah Johnson, Cool Hand Luke, East of Eden' - 10:51:30, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new message #9: 'Recommend me movies made by Tarantino.' - 10:52:10, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new response to #9: 'These are my recommendations: Tony Tarantino, John Livingston, Fred Williamson, Fredd Wayne' - 10:52:12, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new message #9: 'What should I watch after watching Avatar?' - 10:52:28, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new response to #9: 'Good choices! You could watch the following: Avatar 2, Avatar 3, Titanic, Terminator 3: Rise of the Machines' - 10:52:30, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new message #11: 'Can you recommend me some Romance Movies?' - 10:53:04, 29-11-2023
+	- Chatroom 021001ff-52e6-4679-94b8-4214c91c50c5 - new response to #11: 'My recommendations are: Romance, Anatomy of Hell, Bluebeard, Au revoir les enfants' - 10:53:07, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new message #11: 'Recommend movies like Nightmare on Elm Street, Friday the 13th, and Halloween. ' - 10:53:31, 29-11-2023
+	- Chatroom 5b748308-00bb-4194-b0f7-88af38488e03 - new response to #11: 'Oh you should watch the following: What's the Matter with Helen?, Wes Craven's New Nightmare, Halloween II, Friday the 13th Part 3' - 10:53:34, 29-11-2023
