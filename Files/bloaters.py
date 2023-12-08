@@ -18,7 +18,9 @@ linkErrorDict = {
   "written work":rdflib.term.URIRef("http://www.wikidata.org/entity/Q47461344"),
   "series of creative works":rdflib.term.URIRef("http://www.wikidata.org/entity/Q7725310"),
   "harry potter":rdflib.term.URIRef("http://www.wikidata.org/entity/Q8337"),
-  "tarantino":rdflib.term.URIRef("http://www.wikidata.org/entity/Q3772")
+  "tarantino":rdflib.term.URIRef("http://www.wikidata.org/entity/Q3772"),
+  "star wars":rdflib.term.URIRef("http://www.wikidata.org/entity/Q17738"),
+  "lord of the rings":rdflib.term.URIRef("http://www.wikidata.org/entity/Q127367"),
 } 
 
 
