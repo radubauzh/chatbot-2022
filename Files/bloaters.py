@@ -17,6 +17,7 @@ linkErrorDict = {
   "fictional character":rdflib.term.URIRef("http://www.wikidata.org/entity/Q95074"),
   "written work":rdflib.term.URIRef("http://www.wikidata.org/entity/Q47461344"),
   "series of creative works":rdflib.term.URIRef("http://www.wikidata.org/entity/Q7725310"),
+  "harry potter":rdflib.term.URIRef("http://www.wikidata.org/entity/Q8337"),
 } 
 
 
